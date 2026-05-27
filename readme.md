@@ -22,9 +22,9 @@
 | Поле | Тип | Описание |
 |------|-----|----------|
 | _id | TEXT | Фио |
-| name | INTEGER | Номер класса |
-| species | TEXT NOT NULL | Буква класса |
-| breed | INTEGER | Средняя оценка |
+| class number | INTEGER | Номер класса |
+| letter class | TEXT NOT NULL | Буква класса |
+| average score | INTEGER | Средняя оценка |
 
 Функциональность приложения:
 - **Добавление** записи через диалоговое окно (все поля).
